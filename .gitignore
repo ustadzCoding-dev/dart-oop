@@ -1,6 +1,3 @@
-# Ignore tugas directory (student exercises)
-lib/tugas/
-
 # Dart/Flutter
 .dart_tool/
 .packages
@@ -15,3 +12,6 @@ pubspec.lock
 # OS
 .DS_Store
 Thumbs.db
+
+# git
+.gitignore
